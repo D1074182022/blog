@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9442a00-a1e8-4a7b-b646-382c149ca1eb" name="Default Changelist" comment="" />
+    <list default="true" id="e9442a00-a1e8-4a7b-b646-382c149ca1eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/set/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/set/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/set/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/set/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/store/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/store/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/store/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/store/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -128,7 +140,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hwR4tMdpHngSTRBWTpqrk7Oy0y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,12 +151,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nba/nba.sql" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blog\resources\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blog\resources\views\Computer Peripherals" />
+      <recent name="C:\wamp64\www\blog\resources\views\ species" />
+      <recent name="C:\wamp64\www\blog\resources\views\ Brand" />
+      <recent name="C:\wamp64\www\blog\resources\views" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -161,6 +188,9 @@
       <option name="presentableId" value="Default" />
       <updated>1600919982126</updated>
       <workItem from="1600919993055" duration="1820000" />
+      <workItem from="1601862976872" duration="12000" />
+      <workItem from="1602142469364" duration="1540000" />
+      <workItem from="1602726102541" duration="13693000" />
     </task>
     <servers />
   </component>
@@ -168,9 +198,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="659" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1600923534025">
+    <state x="650" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602729028288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="659" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600923534025" />
+    <state x="650" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602729028288" />
+    <state x="431" y="27" key="CommitChangelistDialog2" timestamp="1602733464456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="27" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602733464456" />
+    <state x="670" y="333" key="FileChooserDialogImpl" timestamp="1602728148105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="333" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602728148105" />
+    <state x="923" y="307" key="RollbackChangesDialog" timestamp="1602143916016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="923" y="307" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602143916016" />
+    <state x="569" y="239" key="SettingsEditor" timestamp="1602726468450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="239" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602726468450" />
+    <state x="659" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1602726110593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602726110593" />
+    <state x="607" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602733458741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602733458741" />
   </component>
 </project>

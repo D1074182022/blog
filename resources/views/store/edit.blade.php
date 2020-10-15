@@ -21,9 +21,8 @@
     </style>
 </head>
 <body class="antialiased">
-<h1>這是預備首頁的view</h1>
-<a href="store">進入store</a>
-<br/>
-<a href="set">進入set</a>
+<h1>這是預備編輯店家的view</h1>
+
+<a href="/store">回到全部店家的view</a>
 </body>
 </html>
